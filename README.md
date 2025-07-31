@@ -27,7 +27,7 @@ A responsive and interactive **Student Portal Landing Page** built with **HTML, 
 
 Host your project using services like **Netlify** to see it live.
 
-`https://studentportal29.netlify.app/`
+`https://responsivepage29.netlify.app`
 
 ## 📚 How to Run
 
